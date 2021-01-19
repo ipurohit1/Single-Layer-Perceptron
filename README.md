@@ -17,6 +17,9 @@ This was a small side project I wanted to develop after learning about AI and ma
 
 ## References 
 https://inst.eecs.berkeley.edu/~cs188/sp12/slides/cs188%20lecture%2021%20--%20perceptron%202PP.pdf
+
 https://en.wikipedia.org/wiki/Perceptron
+
 https://www.youtube.com/watch?v=4Gac5I64LM4
+
 https://www.youtube.com/watch?v=OVHc-7GYRo4
